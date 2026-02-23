@@ -1,5 +1,5 @@
 
-Requirement for Typescript
+Requirements for Typescript
 - Node.js
 - TypeScript Compiler
 - VSCode editor
