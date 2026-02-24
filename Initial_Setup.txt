@@ -13,3 +13,12 @@ Node.js comes with npm(node package manager)
 NPM - you can install any packages/softwares
 
 Install TypeScript Compiler
+- npm install -g typescript
+
+To run typescript directly use TypeScript Executor
+- Node.js
+- TypeScript Compiler
+- Visual Studio
+- TypeSCript Executor
+    - npm install -g tsx
+

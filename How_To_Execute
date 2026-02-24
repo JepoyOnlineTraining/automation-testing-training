@@ -1,0 +1,11 @@
+How to compile the code
+
+> tsc firstDemo.ts convert typescript to javascript then you can run Javascript
+
+How to Auto Save
+
+- File > Auto Save
+
+How to Execute directly using TypeScript
+
+> tsx firstDemo.ts
