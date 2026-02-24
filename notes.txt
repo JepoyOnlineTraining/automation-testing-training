@@ -1,5 +1,15 @@
 
 Requirements for Typescript
 - Node.js
+    - Runtime environment where we can run Javascript.
 - TypeScript Compiler
+    - Compile Typescript code and convert it to Javascript code.
 - VSCode editor
+    - Editor. Where to write code.
+
+
+Install TypeScript Compiler
+Node.js comes with npm(node package manager)
+NPM - you can install any packages/softwares
+
+Install TypeScript Compiler
