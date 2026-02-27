@@ -1,0 +1,2 @@
+
+- Why typescript can console log variable with type error?
