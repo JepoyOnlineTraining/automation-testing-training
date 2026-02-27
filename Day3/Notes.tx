@@ -1,0 +1,32 @@
+
+Javascript
+- Is Dynamically Typed Programming Language
+
+let age = 30;
+age = "Thirty"
+
+Typescript
+- Typescript is Statically Type Programming Language
+- Cannot reassign with different type of data.
+
+let data = 10;
+ 
+data = "Ten"; // Throw compile time error
+
+
+Type Safety is not implemented in Javascript. Meaning you can assing different
+value to an existing variable.
+
+Number and string will be concatinated if you use additional operation'
+
+let age:number = 60;
+
+number --> Data Type
+
+annotation ":number" - explicitly applying data type to variable.
+
+type inference: - if you don't assign type in the variable, 
+typescript will automatically assign the type.
+
+Ex.
+let age=30;
